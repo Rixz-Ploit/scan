@@ -27,7 +27,7 @@ Infoga is a tool for advanced information gathering on domains or hosts. It supp
 
 ### Windows Installation Required Tools Use Chocolatey
 
-To install on Windows, use the `.\install_windows_.ps1` script.
+To install on Windows, use the `.\install_windows.ps1` script.
 
 ### Termux Installation Required Tools Use Bash Script
 
