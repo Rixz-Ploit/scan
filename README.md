@@ -35,7 +35,7 @@ To install on Windows, use the `.\install_windows_.ps1` script.
 
 `sudo bash install_linux.sh`
 
-
+### Run Program
 1. Download or clone the repository:
    ```bash
    git clone https://github.com/Rixz-Ploit/scan.git
