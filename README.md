@@ -14,7 +14,7 @@ Infoga is a tool for advanced information gathering on domains or hosts. It supp
 - **Subdomain**: Finds subdomains.
 
 ## Screenshot
-![Dragter Tool Screenshot](assets/screenshot.png)
+![Dragter Tool Screenshot][<img src="https://b.top4top.io/p_3293nqlke0.png">]
 
 
 ## Requirements
