@@ -13,6 +13,10 @@ Infoga is a tool for advanced information gathering on domains or hosts. It supp
 - **NSLookup**: Retrieves DNS records.
 - **Subdomain**: Finds subdomains.
 
+## Screenshot
+![Dragter Tool Screenshot](assets/screenshot.png)
+
+
 ## Requirements
 - Python 3.x
 - Required Tools:
@@ -22,16 +26,16 @@ Infoga is a tool for advanced information gathering on domains or hosts. It supp
 
 ## Installation
 
-### Windows Installation Package Use Chocolatey
+### Windows Installation Required Tools Use Chocolatey
 
 To install on Windows, use the `.\install_windows_.ps1` script.
 
-### Termux Installation Package Use Bash Script
+### Termux Installation Required Tools Use Bash Script
 
 `chmod +x install_termux.sh`
 `./install_termux.sh`
 
-### Linux Installation Package Use Bash Script
+### Linux Installation Required Tools Use Bash Script
 
 `sudo bash install_linux.sh`
 
